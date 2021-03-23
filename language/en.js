@@ -123,7 +123,7 @@ module.exports = {
 
   stats: {
     title: `Giveaway's Information:`,
-    info: 'It is an open source bot that allows you to create giveaway with ease and gives you many distinct features. The bot is Programmed in `javascript language` and By:KTL・SAN#5772 & KTL・ GURGA#0009',
+    info: 'It is an open source bot that allows you to create giveaway with ease and gives you many distinct features. The bot is Programmed in `javascript language` and By:<@596060641740193856>',
     stats: `• __Statistics:__`,
     stat: `\`Servers:\``,
     set: `\`Users:\``,
