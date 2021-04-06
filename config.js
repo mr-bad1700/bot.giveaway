@@ -1,9 +1,9 @@
 module.exports = {	
 hostedBy: true, 
-prefix: "g.",
+prefix: "m/",
 OwnerID: "596060641740193856", 
-token: "ODIzOTQxNjIxMDU3ODQ3MzI5.YFoJbg.1eVKxqTKjVL-_Qy9WaJUVSwD3mA",
-support: "https://discord.gg/bBPh3jrT",
+token: "ODEzNTYyNjQyMzU4NzMwNzYz.YDRHQQ.V_dEJ_eyqONTXWvV18kP7KOeQP8",
+support: "https://discord.gg/Zhwg47uFun",
 basiclang: "en",
 color: "BLACK",
 reaction: "🎉", 
