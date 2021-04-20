@@ -122,9 +122,15 @@ readdir("./commands/", (err, files) => {
 
 
 client.on('ready', () => {
-    client.user.setActivity('', { type: 'WATCHING' });
-
- });
+    console.log('MrFox is ready')
+    client.user.setPresence({
+        activity: {
+            type: "LISTENING",
+            name: ``
+        }, 
+        status: "idle"
+    })
+});
 
 
 
